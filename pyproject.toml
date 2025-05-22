@@ -1,0 +1,13 @@
+[project]
+name = "ctdcloud"
+version = "0.1.0"
+description = "Cloud computing curriculum development for Code the Dream "
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+                 "mkdocs", 
+                 "mkdocs-material"]
+
+[build-system]
+requires = ["uv"]
+build-backend = "uv.build"

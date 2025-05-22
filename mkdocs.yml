@@ -1,0 +1,19 @@
+site_name: CTD Cloud
+theme:
+  name: material
+  features:
+    - navigation.expand   # Keeps the sidebar expanded
+    - navigation.sections # Groups nav into sections
+    - navigation.instant  # Instant loading between pages
+
+repo_url: https://github.com/EricThomson/ctdcloud
+repo_name: GitHub
+edit_uri: ""
+
+nav:
+  - Home: index.md
+  - Lesson Plans: 
+    - Week 1: week1.md
+    - Week 2: week2.md
+    - Week 3: week3.md
+    - Week 4: week4.md
