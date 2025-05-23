@@ -1,7 +1,7 @@
 version: 2
 
-sphinx:
-  configuration: false
+mkdocs:
+  configuration: mkdocs.yml
 
 build:
   os: ubuntu-22.04
