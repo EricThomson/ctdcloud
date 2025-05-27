@@ -7,6 +7,7 @@ Week 1 will focus on introducing core cloud concepts and getting started using A
 - Overview of Azure as a platform
 - Using the command line to interact with cloud resources
 - Understand when and when not to use cloud and how to estimate cloud cost
+- Know the difference between Integrated Services (Snowflake/Databricks vs Azure)
 
 
 ### Hands-On Activities
@@ -15,6 +16,7 @@ Week 1 will focus on introducing core cloud concepts and getting started using A
 - Run Python code via the Azure CLI (use VS Code SSH)
 - Explore cloud compute options like virtual machines and containers
 - Estimate cost of a few simple use case with Azure cost calculator
+- Create a Databricks Notebook and run simple compute
 
 ### Learning Outcomes
 By the end of this week, students will be able to:
@@ -26,12 +28,14 @@ By the end of this week, students will be able to:
   - Authenticate using shared credentials
   - Deploy and run simple Python modules
   - Inspect and manage basic resources and estimate cost
+- Understand differences between Azure/AWS and Databricks/Snowflake
 
 ### Resources
 - [Azure Fundamentals (Microsoft Docs)](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
 - [Azure CLI Quickstart](https://learn.microsoft.com/en-us/cli/azure/get-started-with-azure-cli)
 - [What is Cloud Computing? (Microsoft)](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing/)
 - [Azure Cost Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+- [What is Azure Databricks?](https://learn.microsoft.com/en-us/azure/databricks/introduction/)
 
 ### Instructor Notes
 Encourage students to treat this week as *orientation* — they will likely feel a bit overwhelmed the cloud is basically a fractal structure, they aren't expected to learn it all. None of us know it all. We are planning to provide a *curated guide* that focuses on a key subset of topics.

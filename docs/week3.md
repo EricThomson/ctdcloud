@@ -3,6 +3,8 @@ This week, we’ll explore how cloud-based storage and machine learning platform
 
 ### Focus
 - Learn about different types of cloud storage.
+    - Databricks hive metastore
+    - Azure Blob Storage
 - Learn how cloud storage fits into ML workflows
 - Understand the differences between low-code and high-code approaches
 - Get hands-on experience with multiple Azure ML tools
@@ -13,6 +15,7 @@ This week, we’ll explore how cloud-based storage and machine learning platform
 - Build a classifier using:
     - Azure ML Designer (low-code drag-and-drop)
     - Azure ML SDK (Python-based code-first)
+    - Databricks AutoML
 - Compare pipeline transparency, usability, and deployment steps
 - Visualize features, accuracy, and other metrics with PowerBI on Azure
 - Run inference on new images in the cloud
@@ -36,6 +39,7 @@ By the end of this week, students will be able to:
 - [Azure ML SDK Documentation](https://learn.microsoft.com/en-us/azure/machine-learning/concept-v2?view=azureml-api-2)
 - [Quickstart: Train and Deploy ML Model](https://learn.microsoft.com/en-us/azure/machine-learning/quickstart-create-resources)
 - [PowerBI on Azure](https://www.microsoft.com/en-us/power-platform/products/power-bi/power-bi-and-azure)
+- [Databricks AutoML](https://www.databricks.com/product/automl)
 
 ### Instructor Notes
 We will need to decide whether students will build their own pipelines or collaborate in small groups. 
