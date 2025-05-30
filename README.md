@@ -8,4 +8,3 @@ After giving a general introduction to cloud computing in Week 1, we will provid
 - **Week 2: AI in the Cloud**: Learn how to spin up cloud compute resources and deploy an AI application.
 - **Week 3: ML in the Cloud**: Introduction to cloud-based storage in the context of running ML pipelines. 
 - **Week 4: ETL Pipelines**: Work with database management systems in the context of building ETL pipelines.  
-

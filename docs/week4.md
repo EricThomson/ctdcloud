@@ -11,8 +11,8 @@ In the final week, we bring many different skills together: cloud compute, stora
 - Transform and clean data 
 - Load the processed data into db
 - Compare two approaches to orchestrating the workflow:
-  - Low-code: Azure Data Factory
-  - Code-first: Python with Prefect
+    - Low-code: Azure Data Factory
+    - Code-first: Python with Prefect
 - Show how to pull and analyze stored data
 
 ### Learning Outcomes
@@ -21,10 +21,10 @@ By the end of this week, students will be able to:
 - Explain the purpose and structure of an ETL pipeline
 - Extract external data from an API using Python
 - Load data into a relational cloud-native database 
-- Analyze the final dataset to generate  insights
+- Analyze the final dataset to generate insights
 - Compare tradeoffs between:
-  - Azure Data Factory (low-code, scalable, abstracted)
-  - Prefect (flexible, Python-native, transparent)
+    - Azure Data Factory (low-code, scalable, abstracted)
+    - Prefect (flexible, Python-native, transparent)
 
 ### Resources
 

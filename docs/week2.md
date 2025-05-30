@@ -14,6 +14,7 @@ This week, studetns will focus on compute resources (virtual machines) and deplo
 
 ### Learning Outcomes
 By the end of this week, students will be able to:
+
 - Provision and configure a virtual machine in Azure using shared access
 - Deploy and serve a real Python app using:
   - Dash for frontend interactivity
