@@ -13,7 +13,7 @@ In the final week, we bring many different skills together: cloud compute, stora
 - Compare two approaches to orchestrating the workflow:
     - Low-code: Azure Data Factory
     - Code-first: Python with Prefect
-- Show how to pull and analyze stored data
+- Show how to pull and analyze stored data using PowerBI.
 
 ### Learning Outcomes
 By the end of this week, students will be able to:
@@ -25,13 +25,14 @@ By the end of this week, students will be able to:
 - Compare tradeoffs between:
     - Azure Data Factory (low-code, scalable, abstracted)
     - Prefect (flexible, Python-native, transparent)
+- Analyze data in db using Power BI. 
 
 ### Resources
 
 - [What is ETL? (Microsoft)](https://learn.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl)
 - [Azure Data Factory Overview](https://learn.microsoft.com/en-us/azure/data-factory/introduction)
 - [Prefect Docs](https://docs.prefect.io/)
-
+- [PowerBI on Azure](https://www.microsoft.com/en-us/power-platform/products/power-bi/power-bi-and-azure)
 
 ### Instructor Notes
 Teamwork is central this week — students will collaborate on designing and deploying a real pipeline.
