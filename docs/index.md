@@ -11,7 +11,7 @@ One challenge with teaching cloud concepts is that the terminology and UI are co
 ## Main Workflows
 After giving a general introduction to cloud computing in Week 1, we will provide a hands-on introduction to cloud computing by building projects in Azure each week. 
 
-- [Week 1: Hello Cloud](week1.md): Intro to general cloud concepts, and working with the Azure CLI to deploy python modules.
+- [Week 1: Introduction to Cloud Computing](week1.md): Intro to general cloud concepts, and working with the Azure CLI to deploy python modules.
 - [Week 2: AI in the Cloud](week2.md): Learn how to spin up cloud compute resources and deploy an AI application.
 - [Week 3: ML in the Cloud](week3.md): Introduction to cloud-based storage (Blob Storage) in the context of running ML pipelines. 
 - [Week 4: ETL Pipelines](week4.md): Work with database management systems in the context of building ETL pipelines.  
