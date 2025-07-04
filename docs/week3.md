@@ -16,14 +16,14 @@ This week, we’ll explore how cloud-based storage and machine learning platform
     - Azure ML Designer (low-code drag-and-drop)
     - Azure ML SDK (Python-based code-first)
     - Databricks AutoML
-- Compare pipeline transparency, usability, and deployment steps
-- Visualize features, accuracy, and other metrics with PowerBI on Azure
+- Compare pipeline transparency, usability, and deployment steps using the different frameworks.
 - Run inference on new images in the cloud
 
 ### Learning Outcomes
 By the end of this week, students will be able to:
 
-- Explain the role of cloud storage in ML workflows
+- Explain different types of cloud storage (in general, and in Azure).
+    - Use appropriate storage formats in an ML workflow.  
 - Upload and manage image data using Blob Storage
 - Build and deploy an ML model using Azure ML Designer
 - Use the Azure ML SDK to run inference in Python
@@ -38,7 +38,6 @@ By the end of this week, students will be able to:
 - [Azure ML Designer](https://learn.microsoft.com/en-us/azure/machine-learning/concept-designer)
 - [Azure ML SDK Documentation](https://learn.microsoft.com/en-us/azure/machine-learning/concept-v2?view=azureml-api-2)
 - [Quickstart: Train and Deploy ML Model](https://learn.microsoft.com/en-us/azure/machine-learning/quickstart-create-resources)
-- [PowerBI on Azure](https://www.microsoft.com/en-us/power-platform/products/power-bi/power-bi-and-azure)
 - [Databricks AutoML](https://www.databricks.com/product/automl)
 
 ### Instructor Notes
